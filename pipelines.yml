@@ -2,7 +2,7 @@ resources:
   - name: git
     type: GitRepo
     configuration:
-      gitProvider: my_github
+      gitProvider: git
       path: SaharBracha/jfrog-pipelines-simple-example
       branches:
         include: master
